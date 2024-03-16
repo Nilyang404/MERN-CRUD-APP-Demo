@@ -164,3 +164,24 @@ export { Note };
 
 
 ### Front end
+
+1. install and create React app
+
+create a folder called "frontend", cd into it and run
+
+```shell
+npx create-react-app .
+```
+
+2. delete everything except index.js and App.js, and the import things in these two files. the content of App.js should looks like this now:
+
+```js
+function App() {
+  return (
+    <div className="App">
+      hello world
+    </div>
+  );
+}
+export default App;
+```
