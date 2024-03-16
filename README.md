@@ -1,2 +1,2 @@
 # MERN-CRUD-Demo
-A MERN stack CRUD demo
+This project documents how to create a CRUD demo from 0 with MERN stack
