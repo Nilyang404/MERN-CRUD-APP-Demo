@@ -185,3 +185,9 @@ function App() {
 }
 export default App;
 ```
+
+3. install axios and import it 
+
+```shell
+npm install --save axios
+```
