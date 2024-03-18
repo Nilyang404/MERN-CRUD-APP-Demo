@@ -191,3 +191,5 @@ export default App;
 ```shell
 npm install --save axios
 ```
+
+4. delete defaut files
